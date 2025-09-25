@@ -1,5 +1,5 @@
 # GnormQuest
-An early prototype/demo for a turn-based RPG about a reality-altering gnome placed in the everyday town of Sleepsom
+An early prototype/demo for a turn-based RPG about a reality-altering gnome placed in the everyday town of Sleepsom. 
 I intend to completely overhaul everything shown in this demo, as this was made as a starter project within a few months of using Unreal Engine 5.
 
 Since this is a relatively straightforward RPG with some movement mechanics, I decided to upload the UE5 project file in its entirely.
